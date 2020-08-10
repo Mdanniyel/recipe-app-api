@@ -7,4 +7,4 @@ class CalcTests(TestCase):
 
     def test_add_numbers(self):
         """test the add function"""
-        self.assertEqual(add(3, 8), 11)
+        self.assertEqual(add(5, 8), 13)
